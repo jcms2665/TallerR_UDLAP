@@ -9,7 +9,7 @@ El manejo de datos cuantitativos ha dejado de ser una actividad exclusiva de las
 Generar lineamientos de capacitación mínima que debe conocer un analista de bases de datos. 
 
 **TIEMPOS ESTIMADOS:** 
-Se propone un curso de 18 horas dividido en 3 días (6 horas cada uno). 
+Se propone un curso de 4 horas dividido en 2 días.
 
 **APLICACIÓN:** 
 El curso se propone teórico- práctico y requiere un espacio de tiempo para la búsqueda de información y generación de tareas. 
@@ -19,7 +19,7 @@ Azucena Cháidez y Julio Martínez
 
 
 
-### MÓDULO 1.  Jueves 9 de enero
+### MÓDULO 1.  Jueves 22 de julio
 
 
 I.	Construcción de cuestionarios
@@ -36,7 +36,7 @@ b.	Entrevistas cognitivas
 
 7.	Ejercicio práctico
 
-### MÓDULO 2.  Viernes 10 de enero
+### MÓDULO 2.  Viernes 23 de julio
 
 II.	Introducción a R
 
